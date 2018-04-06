@@ -1,2 +1,0 @@
-# bootstrap
-Visual layout system
